@@ -1,6 +1,6 @@
 # Statistical Analysis & Bias Evaluation in Real-World Data
 
-#### IFT3700 – Projet 3
+#### IFT-3700 – Science des Données
 
 Ce projet contient deux études statistiques indépendantes :
 1.  **Reddit Weekends** – Comparaison de l’activité Reddit en semaine vs week-end    
