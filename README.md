@@ -18,16 +18,19 @@ Le projet met l’accent sur :
 
 ```text
 .
-├── reddit_weekends.py
-├── reddit_weekends.ipynb
-├── chess_rating.py
 ├── chess_rating.ipynb
-├── data/
-│   ├── reddit-counts.json.gz
-│   ├── standard_oct22frl_xml.xml
-│   └── standard_oct22frl_xml.zip
-├── requirements.txt
-└── README.md
+├── chess_rating.py
+├── images
+│   ├── chess_counts_normalized.png
+│   ├── chess_counts.png
+│   ├── chess_permutation_hist.png
+│   ├── reddit_clt.png
+│   ├── reddit_log_transform.png
+│   └── reddit_no_transform.png
+├── README.md
+├── reddit_weekends.ipynb
+├── reddit_weekends.py
+└── requirements.txt
 ```
 
 ## Outils utilisés
